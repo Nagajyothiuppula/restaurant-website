@@ -37,7 +37,7 @@ restaurant-website/
 - Customer reviews section
 - Contact form
 
-##Live Demo
+**Live Demo**
 https://nagajyothiuppula.github.io/restaurant-website/
 
 ## Author
