@@ -76,7 +76,7 @@ body{
     border-radius: 50%;
 }
 #food{
-    background: url("/images/food.png");
+    background: url("food.png");
     width:500px;
     height:500px;
     background-size: cover;
