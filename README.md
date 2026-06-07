@@ -37,7 +37,12 @@ restaurant-website/
 - Customer reviews section
 - Contact form
 
+##Live Demo
+https://nagajyothiuppula.github.io/restaurant-website/
+
 ## Author
 Nagajyothi Uppula
+
+
 
 
